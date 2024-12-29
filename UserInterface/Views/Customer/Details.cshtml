@@ -1,0 +1,93 @@
+@using Core.Domain.Models
+@model Core.Domain.Models.CustomerDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Feedback? feedback = new Feedback();
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Customer</h4>
+    <hr/>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Customer.MembershipType)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Customer.MembershipType.Id)
+        </dd>
+    </dl>
+</div>
+
+<h4>Movies</h4>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Genre</th>
+        <th>Avis</th>
+        <th>Note</th>
+        <th>Actions</th>
+        
+    </tr>
+    </thead>
+    <tbody>
+    @if (Model.Movies != null)
+    {
+        foreach (var movie in Model.Movies)
+        {
+            {
+                feedback = movie.Feedbacks?.FirstOrDefault(f => f.CustomerId == Model.Customer.Id);
+            }
+            <tr>
+                <td>@movie.name</td>
+                <td>@movie.genre?.GenreName</td>
+                <td>@feedback?.avis</td>
+                <td>@feedback?.note</td>
+                <td>
+                    @if (Model.Customer.PreferredMovies != null && Model.Customer.PreferredMovies.Any(m => m.Id == movie.Id))
+                    {
+                        <form asp-action="RemovePreferredMovie" method="post">
+                            <input type="hidden" name="customerId" value="@Model.Customer.Id"/>
+                            <input type="hidden" name="movieId" value="@movie.Id"/>
+                            <button type="submit" class="btn btn-danger">Remove from Preferred</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-action="AddPreferredMovie" method="post">
+                            <input type="hidden" name="customerId" value="@Model.Customer.Id"/>
+                            <input type="hidden" name="movieId" value="@movie.Id"/>
+                            <button type="submit" class="btn btn-primary">Add to Preferred</button>
+                        </form>
+                    }
+                    @if (feedback == null || feedback.avis.Length == 0)
+                    {
+                        <a class="btn btn-secondary" asp-controller="Feedback" asp-action="Create" asp-route-customerId="@Model.Customer.Id" asp-route-movieId="@movie.Id">Add Feedback</a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-secondary" asp-controller="Feedback" asp-action="Edit" asp-route-id="@feedback.id" >Edit Feedback</a>
+                        <a class="btn btn-secondary" asp-controller="Feedback" asp-action="Delete" asp-route-id="@feedback.id" >Delete Feedback</a>
+                    }
+
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Customer.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

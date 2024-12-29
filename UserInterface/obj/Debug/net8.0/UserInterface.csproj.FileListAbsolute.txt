@@ -1,0 +1,1199 @@
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\appsettings.Development.json
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\appsettings.json
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.staticwebassets.runtime.json
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\app.db
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.exe
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.deps.json
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.runtimeconfig.json
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.pdb
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Humanizer.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.CodeDom.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Core.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Infrastructure.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Core.pdb
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Infrastructure.pdb
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.AssemblyReference.cache
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfoInputs.cache
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfo.cs
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.CoreCompileInputs.cache
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cs
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cache
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cache
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cs
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.build.json
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.development.json
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.build.UserInterface.props
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserInterface.props
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserInterface.props
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\bundle\UserInterface.styles.css
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\projectbundle\UserInterface.bundle.scp.css
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInte.9C7395B8.Up2Date
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\refint\UserInterface.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.pdb
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.genruntimeconfig.cache
+D:\GL3\.NET\Clean Architecture\UserInterface\obj\Debug\net8.0\ref\UserInterface.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\genre.json
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Azure.Core.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Azure.Identity.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Common.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Memory.Data.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GL3\.NET\Clean Architecture\UserInterface\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\appsettings.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\app.db
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\genre.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.staticwebassets.runtime.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.exe
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.deps.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.runtimeconfig.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Humanizer.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Core.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.AssemblyReference.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfoInputs.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfo.cs
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cs
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.sourcelink.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.build.UserInterface.props
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserInterface.props
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserInterface.props
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\bundle\UserInterface.styles.css
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\projectbundle\UserInterface.bundle.scp.css
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInte.9C7395B8.Up2Date
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\refint\UserInterface.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.genruntimeconfig.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\ref\UserInterface.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.AssemblyReference.cache
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfoInputs.cache
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfo.cs
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.CoreCompileInputs.cache
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cs
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cache
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cache
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cs
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.sourcelink.json
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\refint\UserInterface.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.pdb
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\appsettings.Development.json
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\appsettings.json
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\genre.json
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\app.db
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.staticwebassets.runtime.json
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.exe
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.deps.json
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.runtimeconfig.json
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\UserInterface.pdb
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Azure.Core.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Azure.Identity.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Humanizer.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Common.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.ClientModel.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.CodeDom.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Memory.Data.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Core.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Infrastructure.dll
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Core.pdb
+D:\tps-dotnet\Clean Architecture\UserInterface\bin\Debug\net8.0\Infrastructure.pdb
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.build.json
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.development.json
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.build.UserInterface.props
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserInterface.props
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserInterface.props
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\staticwebassets.pack.json
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\bundle\UserInterface.styles.css
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\scopedcss\projectbundle\UserInterface.bundle.scp.css
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInte.9C7395B8.Up2Date
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\UserInterface.genruntimeconfig.cache
+D:\tps-dotnet\Clean Architecture\UserInterface\obj\Debug\net8.0\ref\UserInterface.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\appsettings.Development.json
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\appsettings.json
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\genre.json
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\UserInterface.staticwebassets.runtime.json
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\app.db
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\UserInterface.exe
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\UserInterface.deps.json
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\UserInterface.runtimeconfig.json
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\UserInterface.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\UserInterface.pdb
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Azure.Core.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Azure.Identity.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Humanizer.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.Common.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.ClientModel.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.CodeDom.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Core.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Infrastructure.dll
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Core.pdb
+D:\CleanArchitecture\UserInterface\bin\Debug\net8.0\Infrastructure.pdb
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.AssemblyReference.cache
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfoInputs.cache
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.AssemblyInfo.cs
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cs
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.MvcApplicationPartsAssemblyInfo.cache
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cache
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.RazorAssemblyInfo.cs
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.sourcelink.json
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\staticwebassets.build.json
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\staticwebassets.development.json
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.build.UserInterface.props
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserInterface.props
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserInterface.props
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\scopedcss\bundle\UserInterface.styles.css
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\scopedcss\projectbundle\UserInterface.bundle.scp.css
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInte.9C7395B8.Up2Date
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.dll
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\refint\UserInterface.dll
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.pdb
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\UserInterface.genruntimeconfig.cache
+D:\CleanArchitecture\UserInterface\obj\Debug\net8.0\ref\UserInterface.dll

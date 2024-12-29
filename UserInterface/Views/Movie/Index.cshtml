@@ -1,0 +1,54 @@
+﻿@model IEnumerable<UserInterface.ViewModels.GroupedMovieViewModel>
+
+@{
+ViewData["Title"] = "Index";
+Layout = "_Layout";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Added Date</th>
+        <th>Photo</th>
+        <th>Genre</th>
+        <th>Note</th>
+        <th>Options</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var genreGroup in Model)
+    {
+    <tr class="">
+        <td colspan="12" class="font-weight-bold">
+            <p style="color: red;">@genreGroup.GenreName</p>
+        </td>
+    </tr>
+    @foreach (var item in genreGroup.Movies)
+    {
+    <tr>
+        <td>@Html.DisplayFor(modelItem => item.name)</td>
+        <td>@Html.DisplayFor(modelItem => item.addedDate)</td>
+        <td>
+            @if (item.photo != null)
+            {
+            <img src="data:image/jpeg;base64,@item.photo" alt="Movie Photo" style="width: 100px; height: auto;" />
+            }
+        </td>
+        <td>@Html.DisplayFor(modelItem => item.genre.GenreName)</td>
+        <td>@Html.DisplayFor(modelItem => item.rating)</td>
+        <td>
+            <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+            <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+            <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+        </td>
+    </tr>
+    }
+    }
+    </tbody>
+</table>

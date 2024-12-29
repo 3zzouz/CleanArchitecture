@@ -1,0 +1,71 @@
+D:\GL3\.NET\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\GL3\.NET\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\GL3\.NET\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\GL3\.NET\Clean Architecture\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\GL3\.NET\Clean Architecture\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\GL3\.NET\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\GL3\.NET\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\tps-dotnet\Clean Architecture\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\tps-dotnet\Clean Architecture\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\CleanArchitecture\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\CleanArchitecture\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\CleanArchitecture\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\CleanArchitecture\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\CleanArchitecture\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

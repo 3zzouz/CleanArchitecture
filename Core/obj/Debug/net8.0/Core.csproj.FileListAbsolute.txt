@@ -1,0 +1,59 @@
+D:\GL3\.NET\Clean Architecture\Core\bin\Debug\net8.0\Core.deps.json
+D:\GL3\.NET\Clean Architecture\Core\bin\Debug\net8.0\Core.dll
+D:\GL3\.NET\Clean Architecture\Core\bin\Debug\net8.0\Core.pdb
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.dll
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\refint\Core.dll
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.pdb
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\ref\Core.dll
+D:\GL3\.NET\Clean Architecture\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\GL3\.NET\Clean Architecture\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\khali\RiderProjects\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\ref\Core.dll
+D:\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.deps.json
+D:\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.dll
+D:\tps-dotnet\Clean Architecture\Core\bin\Debug\net8.0\Core.pdb
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.dll
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\refint\Core.dll
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.pdb
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\tps-dotnet\Clean Architecture\Core\obj\Debug\net8.0\ref\Core.dll
+D:\CleanArchitecture\Core\bin\Debug\net8.0\Core.deps.json
+D:\CleanArchitecture\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\CleanArchitecture\Core\bin\Debug\net8.0\Core.dll
+D:\CleanArchitecture\Core\bin\Debug\net8.0\Core.pdb
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.dll
+D:\CleanArchitecture\Core\obj\Debug\net8.0\refint\Core.dll
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.pdb
+D:\CleanArchitecture\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\CleanArchitecture\Core\obj\Debug\net8.0\ref\Core.dll
